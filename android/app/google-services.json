@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "736181518706",
+    "project_id": "labexam2-9d294",
+    "storage_bucket": "labexam2-9d294.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:736181518706:android:f1f91bdffd0d20be2c5deb",
+        "android_client_info": {
+          "package_name": "com.example.firebase_lab_exam_2_cantila"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAI2xIVz-O3AY2ePts0wuu7U3bh5uImERU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:736181518706:android:29f296e6c5a336222c5deb",
+        "android_client_info": {
+          "package_name": "com.example.firebase_labexam2_cantila"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAI2xIVz-O3AY2ePts0wuu7U3bh5uImERU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
